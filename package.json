@@ -1,7 +1,7 @@
 {
     "name": "FlameLauncher",
     "preductname": "FlameLauncher",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Launcher (crack, premium)",
     "main": "src/app.js",
     "author": "FlameClient",
